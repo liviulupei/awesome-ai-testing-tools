@@ -105,6 +105,7 @@ Tools that use AI to help generate, maintain, review, or improve code-level test
 - [Qodo](https://www.qodo.ai) - AI coding and testing assistant for generating and improving tests.
 - [Diffblue Cover](https://www.diffblue.com) - AI-powered unit test generation for Java.
 - [GitHub Copilot](https://github.com/features/copilot) - AI coding assistant that can help generate and maintain tests.
+- [LegacyDoc AI](https://www.romanticode.com/tools/ai-code-audit-report/) - VS Code extension for generating local code audit reports, architecture notes, and review-ready context before AI-assisted code review and test planning.
 - [Tabnine](https://www.tabnine.com) - AI coding assistant with code and test generation capabilities.
 - [JetBrains AI](https://www.jetbrains.com/ai/) - AI assistant integrated into JetBrains IDEs.
 - [Sourcegraph Cody](https://sourcegraph.com/cody) - AI coding assistant for understanding and modifying codebases.
