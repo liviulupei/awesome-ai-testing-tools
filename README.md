@@ -53,6 +53,7 @@ AI browser agents and browser-control tools that can be used for QA workflows, e
 - [Browserless](https://www.browserless.io) - Hosted browser automation infrastructure for Puppeteer and Playwright.
 - [Notte](https://github.com/nottelabs/notte) - Browser automation framework for AI agents.
 - [MultiOn](https://www.multion.ai) - AI agent platform for automating browser-based workflows.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI browser agent wallet identity on Solana. Before a browser agent executes workflows on behalf of a user, verify its wallet identity with free `preflight_check(wallet)` or get an Ed25519-signed trust receipt via x402 micropayment. MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ---
 
