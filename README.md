@@ -25,6 +25,7 @@ This list focuses on AI-assisted and agentic tools for software testing, includi
 Tools that use AI agents, natural language, or AI-assisted workflows to help create, run, and maintain automated tests.
 
 - [Endtest](https://endtest.io) - Agentic AI platform for no-code end-to-end test automation.
+- [Agent QA](https://github.com/vostride/agent-qa) - The self-improving QA agent for software teams, with natural-language web/mobile tests, persistent test memory, and self-healing flows.
 - [Mabl](https://www.mabl.com) - AI-assisted test automation platform for web application testing.
 - [Functionize](https://www.functionize.com) - AI-powered test automation platform for functional and end-to-end testing.
 - [Testim](https://www.testim.io) - AI-assisted test automation platform for web applications.
