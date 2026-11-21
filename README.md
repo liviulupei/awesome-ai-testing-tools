@@ -36,6 +36,7 @@ Tools that use AI agents, natural language, or AI-assisted workflows to help cre
 - [Testsigma](https://testsigma.com) - GenAI-powered codeless test automation platform.
 - [TestCraft](https://www.perfecto.io/testcraft) - Codeless Selenium-based test automation tool.
 - [Virtuoso](https://www.virtuoso.qa) - AI-assisted test automation platform using natural language.
+- [Thunders](https://www.thunders.ai) - AI test agents that build, run, and maintain end-to-end tests from natural-language descriptions across web, mobile, API, and desktop.
 
 ---
 
